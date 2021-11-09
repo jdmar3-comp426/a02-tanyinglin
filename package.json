@@ -11,12 +11,13 @@
     "url": "git+https://github.com/jdmar3-comp426/a02-tanyinglin.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-tanyinglin/issues"
   },
   "homepage": "https://github.com/jdmar3-comp426/a02-tanyinglin#readme",
   "dependencies": {
-    "browser-sync": "^2.27.7"
+    "browser-sync": "^2.27.7",
+    "bulma": "^0.9.3"
   }
 }
